@@ -16,4 +16,5 @@ crypto.py contains majority of the code to allow for RSA crypography.
   * decrypt_file: decrypts supplied file using receiver's private key
 
 encrypt.py contains your personal public key 
+
 decrypt.py contains the receivers public and private keys
